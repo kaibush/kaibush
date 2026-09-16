@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=Hello%2C+World!;kaibush%40github%3A~%24+whoami;Full-stack+%C2%B7+AI+tools+%C2%B7+Automation;Building+systems+that+stay+online" alt="typing hello world">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=Hello%2C+World!;kaibush%40github%3A~%24+whoami;Backend+%C2%B7+Java+%C2%B7+C%2B%2B+%C2%B7+Python" alt="typing hello world">
 </p>
 
 <p align="center">
@@ -30,25 +30,19 @@
 ```python
 class Engineer:
     handle = "kaibush"
-    role = ["full-stack", "ai tools", "automation"]
-    stack = ["python", "typescript", "linux"]
-    currently = "shipping model infra, register pipelines, and developer UX"
-    loop = "build -> break -> measure -> ship"
-
-    def status(self) -> str:
-        return "curiosity.service is active (running)"
+    focus = "backend"
+    stack = ["java", "c++", "python", "typescript"]
+    motto = "先能跑起来，再谈优雅"
 ```
 
-写代码、做工具、盯系统。长期在 **Python / TypeScript / Linux** 这条链路上工作，最近的主线是 AI 接入、鉴权流水线和能真正上线的小产品。
+主业后端，**Java** 和 **C++** 写得最多，Python / TypeScript 属于顺手拿来干活的那一类。日常就是写服务、调接口、翻日志，碰到重复又烦的事就写个小工具解决掉，grok-register 和 linuxdo-peek 基本都这么来的。
 
-- 🔭 正在做：Grok 工具链、模型质量观测、开发者工作流
-- 🧠 感兴趣：自动化、搜索、终端体验、能跑在生产里的 AI
-- 🐧 出没：GitHub / [Linux.do](https://linux.do)
-- 📫 联系：[kaibush@163.com](mailto:kaibush@163.com)
+- 日常：后端服务、接口鉴权、排查线上问题
+- 顺手折腾：AI 接入、爬虫自动化、自己用得上的小工具
+- 出没：[GitHub](https://github.com/kaibush) · [Linux.do](https://linux.do)
 
 <p align="center">
   <a href="https://github.com/kaibush"><img src="https://img.shields.io/badge/GitHub-kaibush-181717?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub"></a>
-  <a href="mailto:kaibush@163.com"><img src="https://img.shields.io/badge/Email-kaibush%40163.com-00F5D4?style=for-the-badge&logo=maildotru&logoColor=05080F" alt="Email"></a>
   <a href="https://linux.do"><img src="https://img.shields.io/badge/Linux.do-community-4CC9F0?style=for-the-badge&logo=linux&logoColor=05080F" alt="Linux.do"></a>
 </p>
 

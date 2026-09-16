@@ -16,17 +16,17 @@
   <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="50" cy="21" r="6" fill="#ffbd2e"/>
   <circle cx="72" cy="21" r="6" fill="#27c93f"/>
-  <text x="490" y="26" text-anchor="middle" class="t" font-size="13" fill="#7d8a99">kaibush@github: ~/boot --verbose</text>
-  <text x="36" y="78" class="t" fill="#4cc9f0">[boot] kaibush.sys  kernel=curiosity  tty=github</text>
-  <text x="36" y="110" class="t" fill="#00f5d4">[  OK  ] loaded module: python / fastapi / flask</text>
-  <text x="36" y="142" class="t" fill="#00f5d4">[  OK  ] loaded module: typescript / node</text>
-  <text x="36" y="174" class="t" fill="#00f5d4">[  OK  ] mounted filesystem: /ai-tools</text>
-  <text x="36" y="206" class="t" fill="#ffb84d">[ WARN ] caffeine.service below threshold</text>
-  <text x="36" y="238" class="t" fill="#00f5d4">[  OK  ] curiosity.service is active (running)</text>
+  <text x="490" y="26" text-anchor="middle" class="t" font-size="13" fill="#7d8a99">kaibush@github: ~/whoami --verbose</text>
+  <text x="36" y="78" class="t" fill="#4cc9f0">[boot] kaibush.sys  role=backend  tty=github</text>
+  <text x="36" y="110" class="t" fill="#00f5d4">[  OK  ] loaded module: java / spring</text>
+  <text x="36" y="142" class="t" fill="#00f5d4">[  OK  ] loaded module: c++ / cmake</text>
+  <text x="36" y="174" class="t" fill="#00f5d4">[  OK  ] loaded module: python / typescript</text>
+  <text x="36" y="206" class="t" fill="#ffb84d">[ INFO ] day job: backend services, api, auth</text>
+  <text x="36" y="238" class="t" fill="#00f5d4">[  OK  ] mounted filesystem: /workspace</text>
   <text x="36" y="270" class="t" fill="#e6edf3">kaibush@github:~$ echo Hello, World!</text>
   <text x="36" y="302" class="t" fill="#9ecfc4">Hello, World!</text>
-  <text x="36" y="334" class="t" fill="#e6edf3">kaibush@github:~$ ./profile --mode=hacker --theme=neon</text>
-  <text x="36" y="366" class="t" fill="#9ecfc4">booting personal node...</text>
+  <text x="36" y="334" class="t" fill="#e6edf3">kaibush@github:~$ ./profile --stack</text>
+  <text x="36" y="366" class="t" fill="#9ecfc4">java  c++  python  typescript</text>
   <rect class="cursor" x="36" y="384" width="9" height="16" fill="#00f5d4"/>
   <g opacity=".08">
     <rect x="18" y="52" width="944" height="1" fill="#00f5d4"/>
