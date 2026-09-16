@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="420" viewBox="0 0 980 420" role="img" aria-label="kaibush boot sequence">
+  <defs>
+    <linearGradient id="termbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071018"/>
+      <stop offset="1" stop-color="#05080f"/>
+    </linearGradient>
+    <style>
+      .t { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "DejaVu Sans Mono", monospace; font-size: 16px; }
+      .cursor { animation: blink 1.05s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="980" height="420" rx="18" fill="url(#termbg)" stroke="#00f5d4" stroke-opacity=".45"/>
+  <rect x="0" y="0" width="980" height="42" rx="18" fill="#0b1524"/>
+  <rect x="0" y="24" width="980" height="18" fill="#0b1524"/>
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="21" r="6" fill="#27c93f"/>
+  <text x="490" y="26" text-anchor="middle" class="t" font-size="13" fill="#7d8a99">kaibush@github: ~/boot --verbose</text>
+  <text x="36" y="78" class="t" fill="#4cc9f0">[boot] kaibush.sys  kernel=curiosity  tty=github</text>
+  <text x="36" y="110" class="t" fill="#00f5d4">[  OK  ] loaded module: python / fastapi / flask</text>
+  <text x="36" y="142" class="t" fill="#00f5d4">[  OK  ] loaded module: typescript / node</text>
+  <text x="36" y="174" class="t" fill="#00f5d4">[  OK  ] mounted filesystem: /ai-tools</text>
+  <text x="36" y="206" class="t" fill="#ffb84d">[ WARN ] caffeine.service below threshold</text>
+  <text x="36" y="238" class="t" fill="#00f5d4">[  OK  ] curiosity.service is active (running)</text>
+  <text x="36" y="270" class="t" fill="#e6edf3">kaibush@github:~$ echo Hello, World!</text>
+  <text x="36" y="302" class="t" fill="#9ecfc4">Hello, World!</text>
+  <text x="36" y="334" class="t" fill="#e6edf3">kaibush@github:~$ ./profile --mode=hacker --theme=neon</text>
+  <text x="36" y="366" class="t" fill="#9ecfc4">booting personal node...</text>
+  <rect class="cursor" x="36" y="384" width="9" height="16" fill="#00f5d4"/>
+  <g opacity=".08">
+    <rect x="18" y="52" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="56" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="60" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="64" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="68" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="72" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="76" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="80" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="84" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="88" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="92" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="96" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="100" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="104" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="108" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="112" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="116" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="120" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="124" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="128" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="132" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="136" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="140" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="144" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="148" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="152" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="156" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="160" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="164" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="168" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="172" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="176" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="180" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="184" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="188" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="192" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="196" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="200" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="204" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="208" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="212" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="216" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="220" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="224" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="228" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="232" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="236" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="240" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="244" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="248" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="252" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="256" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="260" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="264" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="268" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="272" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="276" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="280" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="284" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="288" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="292" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="296" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="300" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="304" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="308" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="312" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="316" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="320" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="324" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="328" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="332" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="336" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="340" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="344" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="348" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="352" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="356" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="360" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="364" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="368" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="372" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="376" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="380" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="384" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="388" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="392" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="396" width="944" height="1" fill="#00f5d4"/>
+    <rect x="18" y="400" width="944" height="1" fill="#00f5d4"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+name: generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "dist/**"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#00F5D4&color_dots=#0B1220,#083D3A,#00A896,#00D4B8,#00F5D4
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F5D4&color_dots=#0B1220,#083D3A,#00A896,#00D4B8,#00F5D4
+
+      - name: Commit animation
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: dist/*.svg

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff2bd6" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00f5d4"/>
+      <stop offset="1" stop-color="#4cc9f0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="70" fill="none"/>
+  <path d="M20 20 H120 L140 35 H760 L780 20 H880" fill="none" stroke="#00f5d4" stroke-opacity=".55"/>
+  <path d="M20 50 H120 L140 35 H760 L780 50 H880" fill="none" stroke="#ff2bd6" stroke-opacity=".4"/>
+  <text x="450" y="44" text-anchor="middle" font-family="DejaVu Sans Mono, ui-monospace, monospace" font-size="13" fill="#9fb0bf" letter-spacing="2">KEEP BUILDING  //  KEEP SHIPPING  //  STAY CURIOUS</text>
+</svg>
