@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22&center=true&size=27">  </h1>
